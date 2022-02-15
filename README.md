@@ -10,6 +10,6 @@ Il y avait également des données manquantes (création de lignes) et des pays 
 Les visualisations sont dans le notebook mais également, avec commentaires, dans l'article suivant:
 https://www.linkedin.com/pulse/dans-quel-pays-meurt-on-le-plus-du-covid-anne-pierce/?trackingId=w%2BnMu5jPi42kB1r%2Bz2UpNA%3D%3D
 
-Si comme moi vous avez en tête une visualisation particulière (par continent, par vague etc), le data-cleanig est fait, amusez-vous!
+Si comme moi vous avez en tête une visualisation particulière (par continent, par vague etc), le data-cleaning est fait, amusez-vous!
 
 Bonne journée !
