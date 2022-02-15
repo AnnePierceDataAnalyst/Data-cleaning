@@ -1,6 +1,6 @@
 # Data-cleaning
 
-Le présent projet est né de ma frustration qu'en matière de covid, on parle en "nb de morts/pays" et non en "nb de morts / millions". 
+Le présent projet est né de ma frustration qu'en matière de Covid, on parle en "nb de morts/pays" et non en "nb de morts / millions". 
 Bien sûr que les pays très peuplés vont être au top du classement! Ca ne prouve rien!
 
 Puis je me suis dit: mais je suis data analyste! Je vais faire ce nouvau classement moi-même. Diviser une colonne par une autre, et voilà!
